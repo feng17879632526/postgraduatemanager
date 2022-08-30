@@ -6,12 +6,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-/**
- * @Classname IteratorTest
- * @Description None
- * @Date 2019/6/30 19:50
- * @Created by WDD
- */
+
 public class IteratorTest {
     @Test
     public void test(){

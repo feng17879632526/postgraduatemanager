@@ -1,11 +1,5 @@
 package com.wdd.studentmanager.domain;
 
-/**
- * @Classname score
- * @Description 成绩实体表
- * @Date 2019/7/3 10:22
- * @Created by WDD
- */
 public class Score {
     private Integer id;
     private Integer studentId;
